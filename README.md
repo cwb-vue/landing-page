@@ -6,7 +6,7 @@ Bem vindo ao repositório de desenvolvimento da nossa Landing Page. Sim nossa, m
 
 Vamos criar uma pagina sobre a comunidade Front-End VueJs em Curitiba. O objectivo deste repositório é auxiliar na criação e compartilhamento do código desta pagina, que deve ser feito utilizando Vue.Js.
 
-O objetivo é fazer a comunidade trabalhar junto, seja em pares, em duplas, em dois, em grupos, todo mundo ao mesmo tempo, não importa, o importante é compartilhar sua idéia.
+O objetivo é fazer a comunidade trabalhar junto, seja em pares, em duplas, em grupos, todo mundo ao mesmo tempo, não importa, o importante é compartilhar sua idéia.
 
 ## Como vai funcionar o desenvolvimento
 
