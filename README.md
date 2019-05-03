@@ -1,4 +1,4 @@
-# Vue CWB landing-page
+# Vue JS Curitiba Landing page
 
 Bem vindo ao repositório de desenvolvimento da nossa Landing Page. Sim nossa, minha sua, de todo mundo! Este repositótio é da comunidade Vue.Js Curitiba \o/.
 
